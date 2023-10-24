@@ -1,3 +1,5 @@
+<body>
+  <center>
 <h1 align="center">~ Hi there 👋(≧ヮ≦) ~</h1>
 im just a lazy hikikomori programmer, i mainly use c#, python, c++, and java  
 
@@ -15,3 +17,5 @@ im just a lazy hikikomori programmer, i mainly use c#, python, c++, and java
 </div>
 
 </div>
+</center>
+</body>
