@@ -11,7 +11,7 @@ im just a lazy hikikomori programmer, i mainly use c#, python, c++, and java
 
 
     
-<p align="center" >nice to meet ya</p>
+<h3 align="center" >nice to meet ya</h3>
 
 
 </div>
