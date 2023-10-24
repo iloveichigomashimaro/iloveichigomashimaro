@@ -2,16 +2,16 @@
   <center>
 <h1 align="center">~ Hi there 👋(≧ヮ≦) ~</h1>
     <br>
-im just a lazy hikikomori programmer, i mainly use c#, python, c++, and java
+
+
+<h3 align="center">im just a lazy hikikomori programmer, i mainly use c#, python, c++, and java</h3>
 
 
 
 
 
-
-
-    
-<h3 align="center" >nice to meet ya</h3>
+     
+<h3 align="center"><b>nice to meet ya</b></h3>
 
 
 </div>
