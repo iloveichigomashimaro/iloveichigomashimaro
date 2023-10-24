@@ -2,8 +2,6 @@
 im just a lazy hikikomori programmer, i mainly use c#, python, c++, and java  
 
 **nice to meet ya**
-
-<p align="center">
   <!-- Counter -->
   <img src="https://count.getloli.com/get/@iloveichigomashimaro?theme=moebooru">
 </p>
