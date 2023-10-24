@@ -10,7 +10,7 @@ im just a lazy hikikomori programmer, i mainly use c#, python, c++, and java
 
 
     
-<b align"center">nice to meet ya</b>
+<p align="center" >nice to meet yas</p>
 
 
 </div>
