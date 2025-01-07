@@ -20,13 +20,6 @@
       </div>
 <div>
 
-</div>
-    <div align="center">
-<img src="" align="center">
-      </div>
-<div>
-
-
 
 
 
