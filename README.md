@@ -22,7 +22,7 @@
 
 </div>
     <div align="center">
-<img src="https://github.com/iloveichigomashimaro/iloveichigomashimaro/assets/137470257/d345f8b4-76de-424a-9947-c177ba5adee4" align="center">
+<img src="" align="center">
       </div>
 <div>
 
