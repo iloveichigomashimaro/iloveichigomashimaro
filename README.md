@@ -20,6 +20,11 @@
       </div>
 <div>
 
+</div>
+    <div align="center">
+<img src="https://github.com/iloveichigomashimaro/iloveichigomashimaro/blob/main/ichigo-mashimaro-strawberry-marshmallow.gif" align="center">
+      </div>
+<div>
 
 
 
