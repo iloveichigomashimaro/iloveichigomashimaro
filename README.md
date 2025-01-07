@@ -1,17 +1,17 @@
 <body>
   <center>
-<h1 align="center">~ Hi there 👋(≧ヮ≦) ~</h1>
+<h1 align="center">~ Hi there 👋 ~</h1>
     <br>
 
 
-<h3 align="center">im just a lazy hikikomori programmer, i mainly use c#, python, c++, and java</h3>
+<h3 align="center">im just a lazy hikikomori programmer, i use c#, python, and java</h3>
 
 
 
 
 
      
-<h3 align="center"><b>nice to meet ya (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)</b></h3>
+<h3 align="center"><b>i have to suffer until i feel something</b></h3>
 
 
 </div>
