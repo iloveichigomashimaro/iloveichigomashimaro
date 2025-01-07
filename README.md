@@ -16,7 +16,7 @@
 
 </div>
     <div align="center">
-<img src="https://github.com/iloveichigomashimaro/iloveichigomashimaro/assets/137470257/ab07780d-c926-4426-a07d-3e139472192a" align="center">
+<img src="https://github.com/iloveichigomashimaro/iloveichigomashimaro/blob/main/sleepy-strawberry-marshmallow.gif" align="center">
       </div>
 <div>
 
